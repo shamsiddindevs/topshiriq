@@ -1,0 +1,29 @@
+div {
+  background-color: black;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.home{
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 10px;
+}
